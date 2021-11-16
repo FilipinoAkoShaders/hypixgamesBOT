@@ -1,0 +1,16 @@
+{
+  "name": "playerBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "FilipinoAko",
+  "license": "MC",
+  "dependencies": {
+    "config": "^3.3.3",
+    "fs": "0.0.1-security",
+    "mineflayer": "^2.37.1"
+  }
+}
